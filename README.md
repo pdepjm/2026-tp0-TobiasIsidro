@@ -1,5 +1,5 @@
-#Hola, soy ***Tobías Ezequiel Isidro***#  
-##Mi numero de Legajo es **233.956-0**#  
+##Hola, soy ***Tobías Ezequiel Isidro***    
+###Mi numero de Legajo es **233.956-0**  
 
 Tengo 19 años y estoy cursando el segundo año de ingeniería en sistemas.  
 Me gusta jugar a la pelota, ver partidos de futbol y comer asados con amigos.  
